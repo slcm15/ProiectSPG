@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/deps/include -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\CLion_OpenGL.dir\\src\\Shader.cpp.obj -c C:\\Users\\Larisa\\Downloads\\CLion_OpenGL-master\\CLion_OpenGL-master\\src\\Shader.cpp",
+  "file": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/src/Shader.cpp",
+  "output": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/CLion_OpenGL.dir/src/Shader.cpp.obj"
+},
+{
+  "directory": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -IC:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/deps/include -g -fdiagnostics-color=always -o CMakeFiles\\CLion_OpenGL.dir\\src\\glad.c.obj -c C:\\Users\\Larisa\\Downloads\\CLion_OpenGL-master\\CLion_OpenGL-master\\src\\glad.c",
+  "file": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/src/glad.c",
+  "output": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/CLion_OpenGL.dir/src/glad.c.obj"
+},
+{
+  "directory": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -IC:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/deps/include -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\CLion_OpenGL.dir\\src\\main.cpp.obj -c C:\\Users\\Larisa\\Downloads\\CLion_OpenGL-master\\CLion_OpenGL-master\\src\\main.cpp",
+  "file": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/src/main.cpp",
+  "output": "C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/CLion_OpenGL.dir/src/main.cpp.obj"
+}
+]

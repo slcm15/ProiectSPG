@@ -1,0 +1,3 @@
+C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/CLion_OpenGL.dir
+C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Larisa/Downloads/CLion_OpenGL-master/CLion_OpenGL-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
